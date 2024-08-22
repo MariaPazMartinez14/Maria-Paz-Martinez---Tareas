@@ -1,14 +1,18 @@
-## Tareas
+# Sanar, aprender, cercer y seguir
+## Aqui te dejo los cuatro pasos fundamentales para ser feliz!
 
-Cada tarea debe estar contenida en una carpeta llamada `Tarea_XX` donde `XX` es el número de la tarea. Si tiene un solo dígito, se debe anteponer un `0` a este.
+1. Sanar
+2. Aprender 
+3. Crecer
+4. Seguir
 
-Ejemplo: 
-* ...
-* `Tarea_08`
-* `Tarea_09`
-* `Tarea_10`
-* `Tarea_11`
-* `Tarea_12`
-* ...
+## Sanar:
+Aceptar y reconocer la herida 
 
-Dentro de cada una de las tareas, **debes** tener un archivo `README.md` que utilice [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) donde expliques toda cosa asumida, consideración e información útil para tu corrector. 
+## Aprender:
+
+## Crecer: 
+
+## Seguir:
+
+[]
