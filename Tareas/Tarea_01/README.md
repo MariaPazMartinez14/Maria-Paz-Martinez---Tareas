@@ -1,18 +1,12 @@
-# Sanar, aprender, cercer y seguir
-## Aqui te dejo los cuatro pasos fundamentales para ser feliz!
+# Conclusiones de la clase
 
-1. Sanar
-2. Aprender 
-3. Crecer
-4. Seguir
+En esta sesión vimos los conceptos básicos para poder comenzar a utilizar las aplicaciones y programas que utilizaremos durante el semestre. 
 
-## Sanar:
-Aceptar y reconocer la herida 
+Aprendimos lo que es Markdown, un lenguaje de marcado ligero que tiene como obejtivo estructurar información. 
 
-## Aprender:
+Por otra parte, Visual Studio es un editor de texto. TEXTO = CÓDIGO. Repasamos las características de los editores de texto.
 
-## Crecer: 
+Esta clase fue fundamental para comprender los elementos y herramientas del ramo. 
 
-## Seguir:
 
-[]
+![Miro](/Tareas/Tarea_01/MIRO%20GRÁFICA.png)
